@@ -1,0 +1,28 @@
+body {
+	font-family: verdana, arial, roboto, sans-serif;
+}
+
+header {
+	background: linear-gradient(to bottom, orange 0%, whitesmoke 100%);
+	border-bottom: 5px solid orangered;
+
+}
+
+.lista {
+	list-style: none;
+	overflow: hidden;
+	display: inline-block;
+	padding: 10px;
+	font-size: 15pt;
+	border-left: 1px solid black;
+}
+
+.cuadro {
+	padding: 5%;
+	border-bottom: 3px solid orangered;
+	background-color: rgba(255, 244, 168, 0.5);
+}
+
+h1, h2, h3 {
+	color: blue;
+}
